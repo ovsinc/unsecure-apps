@@ -1,0 +1,6 @@
+2021-06-10 16:31:53.529516 ║INFO	║ 43362	║   0.062 >> Classtree created: True, found 0 classes
+2021-06-10 16:31:53.532005 ║INFO	║ 43362	║   0.064 >> Preprocessing zend
+2021-06-10 16:31:53.533277 ║INFO	║ 43362	║   0.066 >> [Zend] Registered 0 routes
+2021-06-10 16:31:53.533522 ║INFO	║ 43362	║   0.066 >> Preprocessing symfony
+2021-06-10 16:31:53.534714 ║INFO	║ 43362	║   0.067 >> [Symfony] Registered 0 routes
+2021-06-10 16:31:53.535065 ║INFO	║ 43362	║   0.068 >> Preprocessing laravel

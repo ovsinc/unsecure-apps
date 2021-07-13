@@ -1,0 +1,11 @@
+[10.06.2021, 16:26:43] info: Logging was started
+[10.06.2021, 16:26:43] info: Start application inspector initialization
+[10.06.2021, 16:26:43] info: Hide developer mode UI
+[10.06.2021, 16:26:43] info: Infrastructure Configurations: {"_port":8000,"_infrastructureAssemblyFolderPath":"/home/mann/application-inspector-analyzer","_applicationResourcesFolderPath":"/home/mann/application-inspector-analyzer","_scanTargetFolderPath":"/home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke","_isDebugging":false,"_logLevel":"Error","_applicationLocalDataFolderPath":"/home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/.ai"}
+[10.06.2021, 16:26:43] info: Start infrastructure initialization
+[10.06.2021, 16:26:43] info: Infrastructure was started
+[10.06.2021, 16:26:44] info: Infrastructure was initialized
+[10.06.2021, 16:26:44] info: Infrastructure Installer was deleted
+[10.06.2021, 16:31:50] info: Start scan command handled
+[10.06.2021, 16:31:51] info: Project was created. Id: a8baecac-d2e5-4c50-a7b6-0d6cd4118945
+[10.06.2021, 16:35:01] info: Scan done message handled

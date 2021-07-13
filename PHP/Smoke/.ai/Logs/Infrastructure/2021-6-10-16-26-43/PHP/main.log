@@ -1,0 +1,53 @@
+2021-06-10 16:31:53.645530 ║INFO	║ 43362	║   0.177 >> working on /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/xss.abc
+2021-06-10 16:31:53.645984 ║INFO	║ 43362	║   0.178 >> working on /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/xsspm.php
+2021-06-10 16:31:53.646580 ║INFO	║ 43362	║   0.179 >> working on /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/oscom.php
+2021-06-10 16:31:53.646903 ║INFO	║ 43362	║   0.179 >> working on /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/xss.php
+2021-06-10 16:31:53.649718 ║INFO	║ 43362	║   0.179 >> working on /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/sqli.php
+2021-06-10 16:31:54.788879 ║INFO	║ 43471	║   0.024 >> Classtree created: True, found 0 classes
+2021-06-10 16:31:54.812991 ║INFO	║ 43475	║   0.019 >> Classtree created: True, found 0 classes
+2021-06-10 16:31:54.834415 ║INFO	║ 43478	║   0.023 >> Classtree created: True, found 0 classes
+2021-06-10 16:31:54.837518 ║INFO	║ 43472	║   0.019 >> Classtree created: True, found 0 classes
+2021-06-10 16:31:54.874829 ║INFO	║ 43479	║   0.031 >> Classtree created: True, found 0 classes
+2021-06-10 16:31:55.139740 ║INFO	║ 43471	║   0.375 >> pvf called echo(((string)$_GET['a']))
+2021-06-10 16:31:55.140329 ║INFO	║ 43471	║   0.375 >> arg#0 payloadable: True
+2021-06-10 16:31:55.143827 ║INFO	║ 43475	║   0.350 >> pvf called exit('no domain')
+2021-06-10 16:31:55.144247 ║INFO	║ 43475	║   0.350 >> arg#0 payloadable: False
+2021-06-10 16:31:55.148047 ║INFO	║ 43475	║   0.354 >> pvf called system(('nslookup ' . $_GET['domain']))
+2021-06-10 16:31:55.148617 ║INFO	║ 43475	║   0.354 >> arg#0 payloadable: True
+2021-06-10 16:31:55.200201 ║INFO	║ 43472	║   0.382 >> 1 public methods found
+2021-06-10 16:31:55.200342 ║INFO	║ 43472	║   0.382 >> 0 actions found
+2021-06-10 16:31:55.200472 ║INFO	║ 43472	║   0.382 >> 0 methods to scan in pp mode
+2021-06-10 16:31:55.214356 ║INFO	║ 43478	║   0.403 >> pvf called echo(((string)$_GET['a']))
+2021-06-10 16:31:55.214734 ║INFO	║ 43478	║   0.403 >> arg#0 payloadable: True
+2021-06-10 16:31:55.326919 ║INFO	║ 43479	║   0.483 >> pvf called echo('<form action="" method="POST">\n		Get items by condition: <input type="text" name="condition"/>\n		<input type="submit" name="submit" value="Submit"/>\n	</form>')
+2021-06-10 16:31:55.327206 ║INFO	║ 43479	║   0.484 >> arg#0 payloadable: False
+2021-06-10 16:31:55.327553 ║INFO	║ 43479	║   0.484 >> pvf called exit(NULL)
+2021-06-10 16:31:55.327730 ║INFO	║ 43479	║   0.484 >> arg#0 payloadable: False
+2021-06-10 16:31:55.330157 ║INFO	║ 43479	║   0.487 >> pvf called mysql_connect(':3306', '', '')
+2021-06-10 16:31:55.330404 ║INFO	║ 43479	║   0.487 >> arg#0 payloadable: False
+2021-06-10 16:31:55.330994 ║INFO	║ 43479	║   0.488 >> pvf called exit('Could not connect to database')
+2021-06-10 16:31:55.331172 ║INFO	║ 43479	║   0.488 >> arg#0 payloadable: False
+2021-06-10 16:31:55.332417 ║INFO	║ 43479	║   0.489 >> pvf called exit('Could not select database')
+2021-06-10 16:31:55.332600 ║INFO	║ 43479	║   0.489 >> arg#0 payloadable: False
+2021-06-10 16:31:55.333764 ║INFO	║ 43479	║   0.490 >> pvf called exit('Unable to set the character set')
+2021-06-10 16:31:55.333949 ║INFO	║ 43479	║   0.491 >> arg#0 payloadable: False
+2021-06-10 16:31:55.336090 ║INFO	║ 43479	║   0.493 >> pvf called mysql_query(('SELECT * FROM items WHERE ' . $_POST['condition']))
+2021-06-10 16:31:55.336447 ║INFO	║ 43479	║   0.493 >> arg#0 payloadable: True
+2021-06-10 16:31:55.731658 ║INFO	║ 43475	║   0.937 >> 0 public methods found
+2021-06-10 16:31:55.731815 ║INFO	║ 43475	║   0.938 >> 0 actions found
+2021-06-10 16:31:55.731932 ║INFO	║ 43475	║   0.938 >> 0 methods to scan in pp mode
+2021-06-10 16:31:55.733581 ║INFO	║ 43471	║   0.969 >> 0 public methods found
+2021-06-10 16:31:55.733762 ║INFO	║ 43471	║   0.969 >> 0 actions found
+2021-06-10 16:31:55.733900 ║INFO	║ 43471	║   0.969 >> 0 methods to scan in pp mode
+2021-06-10 16:31:55.769942 ║INFO	║ 43478	║   0.959 >> 0 public methods found
+2021-06-10 16:31:55.770085 ║INFO	║ 43478	║   0.959 >> 0 actions found
+2021-06-10 16:31:55.770183 ║INFO	║ 43478	║   0.959 >> 0 methods to scan in pp mode
+2021-06-10 16:31:55.774582 ║INFO	║ 43479	║   0.931 >> pvf called exit('Query error.')
+2021-06-10 16:31:55.774968 ║INFO	║ 43479	║   0.932 >> arg#0 payloadable: False
+2021-06-10 16:31:55.778795 ║INFO	║ 43479	║   0.935 >> pvf called exit('No item for you with this name.')
+2021-06-10 16:31:55.779158 ║INFO	║ 43479	║   0.936 >> arg#0 payloadable: False
+2021-06-10 16:31:55.782889 ║INFO	║ 43479	║   0.939 >> pvf called echo((('owner: ' . mysql_fetch_assoc({13: mysql_query(('SELECT * FROM items WHERE ' . $_POST['condition']))})['owner']) . ...))
+2021-06-10 16:31:55.784102 ║INFO	║ 43479	║   0.941 >> arg#0 payloadable: True
+2021-06-10 16:31:56.013112 ║INFO	║ 43479	║   1.170 >> 0 public methods found
+2021-06-10 16:31:56.013236 ║INFO	║ 43479	║   1.170 >> 0 actions found
+2021-06-10 16:31:56.013315 ║INFO	║ 43479	║   1.170 >> 0 methods to scan in pp mode

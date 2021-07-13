@@ -1,0 +1,12 @@
+2021-06-10 16:35:01.294191 ║ERROR	║ 43224	║ data not read, socket problem: [Errno 104] Connection reset by peer
+2021-06-10 16:35:01.294596 ║ERROR	║ 43224	║ runRead finished exception: [Errno 104] Connection reset by peer
+--------------------------------------------------------------------------------
+httpgen.py, line 34, "httpgen.TransportManager.runRead"
+httpgen.py, line 79, "httpgen.TransportManager.read"
+uitransport.py, line 93, "uitransport.ApplicationInspectorBridge.readMessage"
+uitransport.py, line 172, "uitransport.ApplicationInspectorBridgeSocket._readData"
+uitransport.py, line 169, "uitransport.ApplicationInspectorBridgeSocket._readData"
+
+"ConnectionResetError" exception, [Errno 104] Connection reset by peer
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,15 @@
+2021-06-10 16:31:52.848289 ║INFO	║ 43224	║ Process init
+2021-06-10 16:31:52.848651 ║INFO	║ 43224	║ Init done
+2021-06-10 16:31:53.493403 ║INFO	║ 43224	║ Preprocessing started
+2021-06-10 16:31:53.493763 ║INFO	║ 43224	║ Preprocessing finished
+2021-06-10 16:31:53.633591 ║INFO	║ 43224	║ Scan started
+2021-06-10 16:31:53.633980 ║INFO	║ 43224	║ process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir
+2021-06-10 16:31:53.634341 ║INFO	║ 43224	║ process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/xss.abc
+2021-06-10 16:31:53.634638 ║INFO	║ 43224	║ process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/xsspm.php
+2021-06-10 16:31:53.634918 ║INFO	║ 43224	║ process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/sqli.php
+2021-06-10 16:31:53.635195 ║INFO	║ 43224	║ process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/xss.php
+2021-06-10 16:31:53.635464 ║INFO	║ 43224	║ process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/oscom.php
+2021-06-10 16:31:53.635729 ║INFO	║ 43224	║ process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke
+2021-06-10 16:31:53.636076 ║INFO	║ 43224	║ Scan finished
+2021-06-10 16:35:01.253439 ║INFO	║ 43224	║ Finalize
+2021-06-10 16:35:01.253571 ║INFO	║ 43224	║ Finalize done

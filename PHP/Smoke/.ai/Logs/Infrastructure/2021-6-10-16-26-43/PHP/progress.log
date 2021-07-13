@@ -1,0 +1,23 @@
+2021-06-10 16:31:53.467800 ║INFO	║ 43362	║   0.000 >> process AI3 init
+2021-06-10 16:31:53.518730 ║INFO	║ 43362	║   0.018 >> Preprocessing started
+2021-06-10 16:31:53.642979 ║INFO	║ 43362	║   0.175 >> Scan started
+2021-06-10 16:31:53.644229 ║INFO	║ 43362	║   0.000 >> worker.run started
+2021-06-10 16:31:53.644349 ║INFO	║ 43362	║   0.000 >> worker.run started
+2021-06-10 16:31:53.645226 ║INFO	║ 43362	║   0.001 >> worker.run started
+2021-06-10 16:31:53.645859 ║INFO	║ 43362	║   0.002 >> worker.run started
+2021-06-10 16:31:53.645805 ║INFO	║ 43362	║   0.001 >> worker.run started
+2021-06-10 16:31:53.646712 ║INFO	║ 43362	║   0.002 >> worker.run started
+2021-06-10 16:31:53.646637 ║INFO	║ 43362	║   0.003 >> process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/xsspm.php
+2021-06-10 16:31:53.649815 ║INFO	║ 43362	║   0.002 >> process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/xss.abc
+2021-06-10 16:31:53.651187 ║INFO	║ 43362	║   0.003 >> process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/oscom.php
+2021-06-10 16:31:53.655387 ║INFO	║ 43362	║   0.003 >> process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/xss.php
+2021-06-10 16:31:53.659712 ║INFO	║ 43362	║   0.008 >> process file /home/mann/Работа/AI/unsecure-apps/ai-stuff/Php/Smoke/dir/sqli.php
+2021-06-10 16:31:54.651910 ║INFO	║ 43362	║   1.008 >> worker.run finished 0
+2021-06-10 16:31:56.284395 ║INFO	║ 43362	║   2.641 >> worker.run finished 0
+2021-06-10 16:31:56.818086 ║INFO	║ 43362	║   3.174 >> worker.run finished 0
+2021-06-10 16:31:56.836352 ║INFO	║ 43362	║   3.193 >> worker.run finished 0
+2021-06-10 16:31:56.859590 ║INFO	║ 43362	║   3.216 >> worker.run finished 0
+2021-06-10 16:31:57.078075 ║INFO	║ 43362	║   3.434 >> worker.run finished 0
+2021-06-10 16:31:57.078605 ║INFO	║ 43362	║   3.611 >> Scan finished
+2021-06-10 16:35:01.214489 ║INFO	║ 43362	║ 187.747 >> Finalize
+2021-06-10 16:35:01.215004 ║INFO	║ 43362	║ 187.747 >> Finalize done
